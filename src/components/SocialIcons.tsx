@@ -56,12 +56,12 @@ const SocialIcons = () => {
     <div className="icons-section">
       <div className="social-icons" data-cursor="icons" id="social">
         <span>
-          <a href="https://github.com/" target="_blank" rel="noreferrer" aria-label="GitHub">
+          <a href="https://github.com/VISHWA-191999" target="_blank" rel="noreferrer" aria-label="GitHub">
             <FaGithub />
           </a>
         </span>
         <span>
-          <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer" aria-label="LinkedIn">
+          <a href="https://www.linkedin.com/in/vishwajeetgaikwad/" target="_blank" rel="noreferrer" aria-label="LinkedIn">
             <FaLinkedinIn />
           </a>
         </span>
