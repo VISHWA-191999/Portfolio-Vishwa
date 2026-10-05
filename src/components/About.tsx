@@ -4,11 +4,13 @@ const About = () => {
   return (
     <div className="about-section" id="about">
       <div className="about-me">
-        <h3 className="title">About Me</h3>
+        <h3 className="title">Summary</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          Full-stack Software Developer with 2.8+ years of experience building
+          production web applications with React, TypeScript, JavaScript,
+          Node.js, Express, and REST APIs. Experienced in responsive interfaces,
+          backend microservices, authentication, database optimization, and
+          real-time applications. Based in India and serving notice period.
         </p>
       </div>
     </div>
